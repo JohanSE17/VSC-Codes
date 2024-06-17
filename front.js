@@ -14,3 +14,5 @@ let name = "Joan"
 let well = "Saludo a " + name
 
 console.log(well)
+
+Math.floor
