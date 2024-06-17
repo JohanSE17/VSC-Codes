@@ -1,1 +1,1 @@
-console.log("Information VSC")
+console.log("◘ Information VSC •")
