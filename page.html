@@ -33,6 +33,9 @@ ul>(li>a)*4
 hearde.header>nav.header-nav>ul.header-ul>li.list-item*4>a.link → Semanticamente correcto en html
 
 hearde.header>nav.header-nav>ul.header-ul>li.list-item*4>a.link{Link $} → Lista numerica ordenada de los links
+
+["hearde.header>nav.header-nav>ul.header-ul>(li.list-item>a.link)*${1:Cantidad};"] → Lista númerica subjetiva de los links
+
  -->
 <head>
     
@@ -45,8 +48,16 @@ hearde.header>nav.header-nav>ul.header-ul>li.list-item*4>a.link{Link $} → List
 <body>
 <script>src="VSC Codes/front.js"</script>
 <p>text</p>
+<hearde class="header">
+    <nav class="header-nav">
+        <ul class="header-ul">
+            <li class="list-item"><a href="" class="link"></a></li>
+        </ul>
+    </nav>
+</hearde>;
 </body>
 <html>
 
 
 </html>
+

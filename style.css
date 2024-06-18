@@ -1,0 +1,14 @@
+/*  bd → border
+
+m10p-10p → % 
+m10 -10  → px
+m10e-10e  → em
+
+p10p-10p → % 
+
+w10 → px
+w10p-10 → % & px
+*/
+header {
+width: 10px;
+}

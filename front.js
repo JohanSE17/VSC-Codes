@@ -1,6 +1,9 @@
 console.log("◘ Information VSC •")
 
-/* program js → en últimas versiones no es necesario el ; */
+/* program js → en últimas versiones no es necesario el ; 
+
+
+*/
 
 let numa = 24
 let numb = 21
