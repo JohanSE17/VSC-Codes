@@ -8,6 +8,13 @@ p10p-10p → %
 
 w10 → px
 w10p-10 → % & px
+
+color
+c#  → colors
+bgc# → background-color
+
+Agregar estos emmet a snippets
+
 */
 header {
 width: 10px;
